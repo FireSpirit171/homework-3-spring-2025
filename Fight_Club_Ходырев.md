@@ -65,6 +65,8 @@ URL: https://ads.vk.com/hq/leadads/leadforms
 
 # Баланс
 
+URL: https://ads.vk.com/hq/budget/transactions
+
 ![Транзакции](assets/balance.png)
 
 - На странице показана история транзакций кабинета. Если транзакций не было, то на странице есть кнопка "Пополнить баланс"
